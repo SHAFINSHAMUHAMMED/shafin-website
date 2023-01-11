@@ -1,0 +1,376 @@
+.main-body{
+    min-width: 100%;
+    overflow-x: hidden;
+    font-family: gotham-book;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #fff;
+    margin: 0;
+    display: inline;
+}
+.full-body{
+    width: 100%;
+margin: 0;
+border: 0;
+padding: 0;
+}
+#home-pg{
+    width: 100%;
+    height: 601.263px;
+    display:inline-block;
+    box-sizing: border-box;
+}
+.home-pic{
+    width: 1519px;
+    height: 601.263px;
+    position: relative;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    display: inline-block;
+}
+.img-home{
+  width: 1519px;
+  height: 601.263px;
+    height: auto;
+    display: inline-block;
+    border: 0px;
+}
+.dots{
+    position: absolute;
+    bottom: -233px;
+    left: 50%;
+}
+.dot1{
+    width: 8px;
+    height: 8px;
+    border: 2px solid #fff;
+    background:#fff;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0px;
+    margin-left: 3px;
+    margin-right: 3px;
+    cursor: pointer;
+}
+.dot2{
+    width: 8px;
+    height: 8px;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    display: inline-block;
+    margin: 0px;
+    margin-left: 3px;
+    margin-right: 3px;
+    cursor: pointer; 
+}
+.stickey-bar{
+    width: 100%;
+    height: 90px;
+    display: inline-block;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.stick-head-padd{
+    width: 100%;
+    height: 80px;
+    display: inline-block;
+    text-align: left;
+    padding: 10px 50px 0;
+    background:#fff;
+}
+.logo{
+    display: inline-block;
+    width: 50px;
+    vertical-align: middle;
+}
+.logo-img{
+    vertical-align: middle;
+}
+.nav-bar{
+    height: 27.03px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.nav-bar-ul{
+    width: 27.03;
+    margin: 0px;
+    border: 0px;
+    padding-inline-start: 40px;
+}
+.li-trans{
+    display: inline-block;
+    list-style: none;
+    margin-top: 0px;
+    margin-right: 15px;
+    margin-bottom: 0px;
+    margin-left: 15px;
+    position: relative;
+}
+.nav-a-tag{
+    color: #dc4348;
+    font-family: gotham-book;
+    font-size: 20px;
+    padding-bottom: 36px;
+    text-decoration: none;
+    list-style: none;
+    outline: 0;
+}
+.nav-a-tag:hover{
+    text-decoration-line: underline;
+}
+.cart-img{
+    position: relative;
+    top: 6px;
+}
+.nav-extra-btns{
+    width: 122.4px;
+    height: 24.80px;
+    float: right;
+    display:block;
+    padding-top: 24px;
+    padding-right: 0px;
+    padding-bottom: 24px;
+    padding-left: 0px;
+    position: relative;
+    right: 85px;
+}
+.btnn{
+    display: inline-block;
+    margin-top: 0px;
+    margin-right: 10px;
+    margin-bottom: 0px;
+    margin-left: 10px;
+    position: relative;
+}
+.a-tag{
+    text-decoration: none;
+}
+.img-lens{
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    width: 25.78px;
+    height: 26.78px;
+}
+.img-bell{
+    width: 30px;
+    height: 33px;
+    position: relative;
+    left: 8px;
+    top: 1px;
+}
+.user-icn{
+    width: 30px;
+    height: 33px;
+    position: relative;
+    left: 8px;
+    top: 1px;
+    position: relative;
+    left: 12px;
+    top: 1px;
+} 
+.center-part{
+    width: 100%;
+    height: 475.638px;
+    display: flex;
+}
+.part1,.part2,.part3{
+    width: 33.33333333%;
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+.img1{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+.img-bar{
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+.txt-bar{
+    background: #dc4348;
+    color: #fff;
+    position: absolute;
+    padding: 8px 25px;
+    padding-top: 5px;
+    padding-right: 25px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    border-radius: 20px;
+    font-size: 17px;
+}
+.history{
+    position: relative;
+    height: 450px;
+    width: 100%;
+}
+.history-bg{
+    position: relative;
+    background: url(https://www.cafecoffeeday.com/sites/all/themes/ccd/assets/images/history-plx.jpg) no-repeat fixed;
+    background-size: cover;
+    width: 100%;
+    height: 860px;
+    z-index: -1;
+}
+.text-png{
+    position: absolute;
+    top: 0;
+    width: 100%;
+    text-align: center;
+    padding-top: 100px;
+}
+.img-respon{
+    max-width: 400px;
+    display: inline-block;
+}
+.img-under-bar{
+    position: static;
+    margin-top: 30px;
+}
+.bar-name{
+    background: #dc4348;
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+    background: #dc4348;
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+    padding: 8px 25px;
+    font-family: gotham-bold;
+    font-size: 15px;
+    font-weight: 800;
+    text-transform: uppercase;
+    text-decoration: none;
+    display: inline-block;
+    border-radius: 20px;
+}
+.talk-to-us{
+    position: fixed;
+    bottom: -20px;
+    right: 72px;
+    background: #dc4348;
+    padding: 5px 15px 15px;
+    z-index: 3001;
+    max-width: 300px;
+    border: none;
+}
+.talk-btn{
+    cursor: pointer;
+    padding: 8px 10px;
+    position: absolute;
+    right: 0;
+    top: -85px;
+}
+.talk-logo{
+    max-width: 80px;
+    vertical-align: middle;
+}
+.footer{
+    z-index: 1;
+    background-color: #fff;
+}
+.social-media{
+    padding-right: 15px;
+    padding-left: 15px;
+    clear: both;
+    background-color: #fff;
+}
+.social-media-wrap{
+    height: 48.8px;
+    text-align: center;
+    padding-top: 30px;
+    padding-right: 0px;
+    padding-bottom: 30px;
+    padding-left: 0px;
+}
+.social-logo1{
+    width: 75px;
+    height: 63px;
+}
+.social-logo2{
+    width: 75px;
+    height: 63px;
+    position: relative;
+    left: -21px;
+}
+.social-logo3{
+    width: 75px;
+    height: 63px;
+    position: relative;
+    left: -40px;
+}
+.social-logo4{
+    width: 75px;
+    height: 63px;
+    position: relative;
+    left: -60px;
+}
+.footer-full{
+    width: 1449.6px;
+    height: 321.24px;
+    background-color: #fff;
+    display: inline-block;    
+}
+.footer-box{
+   width: 1349.6px;
+   padding: 0px;
+   background-color: #fff;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   position: relative;
+   display: inline-block;
+   left: 50px;
+   align-self: center;
+   border-top: 1px solid #c9c9c9;
+   border-bottom: 1px solid #c9c9c9;
+}
+.block1{
+    width: 20%;
+    display: inline-block;
+    float: left;
+}
+.headd{
+    color: #838282;
+    font-size: 14px;
+    margin: 0px;
+    margin-bottom: 10px;
+    font-weight: 600;
+}
+.a-tagg{
+    display: inline-block;
+    width: 100%;
+    font-family: gotham-book;
+    color: #838282;
+    font-size: 14px;
+    opacity: .8;
+    margin: 3px 0;
+    margin-top: 3px;
+    margin-right: 0px;
+    margin-bottom: 3px;
+    margin-left: 0px;
+    text-decoration: none;
+}
+.copy-rights{
+    width: 1349.6px;
+    height: 27.138px;
+   padding: 0px;
+   padding-top: 20px;
+   padding-bottom: 20px;
+   margin-top: -20px;
+   color: #838282;
+   position: relative;
+   display: inline-block;
+   left: 50px;
+}
